@@ -3,8 +3,8 @@
 ##
 
 <div align="center">
-    <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=galupo01&show_icons=true&theme=github_dark"/>
-    <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galupo01&layout=compact&langs_count=16&theme=github_dark"/>
+    <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=marcosvgalupo&show_icons=true&theme=github_dark"/>
+    <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvgalupo&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 
 ##
@@ -16,4 +16,4 @@
     <a href="https://leetcode.com/galupo01/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a>
 </div>
 
-![Snake animation](https://github.com/galupo01/galupo01/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/marcosvgalupo/marcosvgalupo/blob/output/github-contribution-grid-snake.svg)
