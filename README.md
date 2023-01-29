@@ -1,6 +1,6 @@
-### Hello! I am Marcos Vyctor 
 
-##
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Marcos!;I'm+brazilian+and+I'm+19+years+old!;I'm+graduating+in+Computer+Science.;Welcome+to+my+profile+:%29)](https:git.io/typing-svg)
+
 
 <div align="center">
     <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=marcosvgalupo&show_icons=true&theme=github_dark"/>
