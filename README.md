@@ -15,3 +15,5 @@
     <a href="https://www.instagram.com/galupo01/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
     <a href="https://leetcode.com/galupo01/" target="_blank"><img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black" target="_blank"></a>
 </div>
+
+![Snake animation](https://github.com/galupo01/galupo01/blob/output/github-contribution-grid-snake.svg)
