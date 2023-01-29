@@ -3,8 +3,8 @@
 ##
 
 <div align="center">
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api?username=galupo01&show_icons=true&theme=github_dark"/>
-    <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galupo01&layout=compact&langs_count=16&theme=github_dark"/>
+    <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=galupo01&show_icons=true&theme=github_dark"/>
+    <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=galupo01&layout=compact&langs_count=16&theme=github_dark"/>
 </div>
 
 ##
