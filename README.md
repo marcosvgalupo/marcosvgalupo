@@ -8,7 +8,7 @@
 </div>
 
 ##
-<h1> Contato/Social
+<h2>Contato/Social
 <div align="center">
     <a href="https://www.linkedin.com/in/marcosvgalupo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      <a href="mailto:mv.galupo@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
