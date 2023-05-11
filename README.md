@@ -10,7 +10,6 @@
 
 
 ##Contato
-<h1><b>Contato<b>
 <br><br>
 <div align="center">
     <a href="https://www.linkedin.com/in/marcosvgalupo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
