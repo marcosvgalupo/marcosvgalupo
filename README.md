@@ -1,8 +1,15 @@
 
 <!--[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=FFFFFF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Marcos!;I'm+brazilian+and+I'm+19+years+old!;I'm+graduating+in+Computer+Science.;Welcome+to+my+profile+:%29)](https:git.io/typing-svg)-->
 
+##Github Stats
+<br> <br>
+<div align="center">
+    <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=marcosvgalupo&show_icons=true&theme=github_dark"/>
+    <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvgalupo&layout=compact&langs_count=16&theme=github_dark"/>
+</div>  
 
-##
+
+##Contato
 <h1><b>Contato<b>
 <br><br>
 <div align="center">
@@ -13,12 +20,6 @@
 </div>
 
 
-##
-Github Stats
-<br> <br>
-<div align="center">
-    <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=marcosvgalupo&show_icons=true&theme=github_dark"/>
-    <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvgalupo&layout=compact&langs_count=16&theme=github_dark"/>
-</div>    
+
     
 ![Snake animation](https://github.com/marcosvgalupo/marcosvgalupo/blob/output/github-contribution-grid-snake.svg)
