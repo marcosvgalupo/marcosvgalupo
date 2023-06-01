@@ -1,8 +1,14 @@
+<source media="(prefers-color-scheme: dark)" srcset="https://user-images.githubusercontent.com/25423296/163456776-7f95b81a-f1ed-45f7-b7ab-8fa810d529fa.png">
+<source media="(prefers-color-scheme: light)" srcset="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=#58A6FF&size=35&center=true&vCenter=true&width=1000&lines=Hello,+my+name+is+Marcos!;I'm+brazilian+and+I'm+19+years+old!;I'm+graduating+in+Computer+Science.;Welcome+to+my+profile+:%29)](https:git.io/typing-svg)
 
-## Contato
-<br><br>
+## Hello, I'm Marcos Vyctor
+<ul>
+    <li> Currently graduating in Computer Science at Unifal-MG
+    <li> Studying for full stack development
+</ul>
+
+## Contact
 <div align="center">
     <a href="https://www.linkedin.com/in/marcosvgalupo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
      <a href="mailto:mv.galupo@hotmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -17,10 +23,6 @@
     <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvgalupo&layout=compact&langs_count=16&theme=github_dark"/>
 </div>  
 
-
-
-
-
-
-    
-![Snake animation](https://github.com/marcosvgalupo/marcosvgalupo/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+    <img src="https://github.com/marcosvgalupo/marcosvgalupo/blob/output/github-contribution-grid-snake.svg">
+</div>
