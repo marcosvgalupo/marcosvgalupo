@@ -3,7 +3,7 @@
 <ul>
     <li> 19 yo
     <li> Currently graduating in Computer Science at Unifal-MG
-    <li> Studying for full stack development
+    <li> Studying for back-end development
 </ul>
 
 ## Contact
