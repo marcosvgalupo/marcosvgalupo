@@ -21,8 +21,4 @@
 </div>  
 
 ![Snake animation](https://github.com/marcosvgalupo/marcosvgalupo/blob/output/github-contribution-grid-snake.gif)
-[![readme](https://github-readme-stats.vercel.app/api/pin?username=marcosvgalupo&repo=marcosvgalupo&theme=react)](https://github.com/marcosvgalupo/marcosvgalupo)
 
-<div align="center">
-    <img src="https://github.com/marcosvgalupo/marcosvgalupo/blob/output/github-contribution-grid-snake.svg">
-</div>
