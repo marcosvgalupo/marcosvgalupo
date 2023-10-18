@@ -20,6 +20,9 @@
     <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvgalupo&layout=compact&langs_count=16&theme=github_dark"/>
 </div>  
 
+![Snake animation](https://github.com/marcosvgalupo/marcosvgalupo/blob/output/github-contribution-grid-snake.gif)
+[![readme](https://github-readme-stats.vercel.app/api/pin?username=marcosvgalupo&repo=marcosvgalupo&theme=react)](https://github.com/marcosvgalupo/marcosvgalupo)
+
 <div align="center">
     <img src="https://github.com/marcosvgalupo/marcosvgalupo/blob/output/github-contribution-grid-snake.svg">
 </div>
