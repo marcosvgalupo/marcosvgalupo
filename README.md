@@ -9,10 +9,8 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,haskell,perl,java,bash">
     <h4>Tools</h4>
     <img src="https://skillicons.dev/icons?i=git,mysql,postman,">
-    <h4>IDE's</h4>
-    <img src="https://skillicons.dev/icons?i=vscode,idea">
-    <h4>OS</h4>
-    <img src="https://skillicons.dev/icons?i=linux">
+    <h4>IDE's and OS</h4>
+    <img src="https://skillicons.dev/icons?i=vscode,idea,linux">
     <h4>Currently learning</h4>
     <img src="https://skillicons.dev/icons?i=python,nodejs">
 </div>
@@ -21,8 +19,8 @@
 
 ## Github Stats
 <div align="left">
-    <img height="170cm" src="https://github-readme-stats.vercel.app/api?username=marcosvgalupo&show_icons=true&theme=github_dark"/>
-    <img height="170cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvgalupo&layout=compact&langs_count=16&theme=github_dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosvgalupo&show_icons=true&theme=github_dark"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvgalupo&layout=compact&langs_count=16&theme=github_dark"/>
 </div>  
 
 ## Contact
