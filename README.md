@@ -1,6 +1,6 @@
 
 # Hello, welcome to my profile!
-<p>My name is Marcos Vyctor and I'm currently graduating in Computer Science at UNIFAL-MG. I'm interessed in studying back-end development and undertand a little about front-end. My goal is to work with cybersecurity as a pentest.</p>
+<p>My name is Marcos Vyctor and I'm currently graduating in Computer Science at UNIFAL-MG, Brazil. I'm interessed in studying back-end development and undertand a little about front-end. My goal is to work with cybersecurity as a pentest.</p>
 
 ##
 
