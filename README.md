@@ -24,12 +24,12 @@
 </div>  
 
 ## Contact
-<ul>
-    <li><a href="https://www.linkedin.com/in/marcosvgalupo/" target="_blank">Linkedin</a></li>
-    <li><a href="mailto:mv.galupo@hotmail.com" target="_blank">Email</li>
-    <li><a href="https://www.instagram.com/galupo01/" target="_blank">Instagram</a></li>
-    <!--<li><a href="https://leetcode.com/marcosvgalupo/" target="_blank">Leet Code</a></li>-->
-</ul>
+
+<a href="https://www.linkedin.com/in/marcosvgalupo/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"></a>
+<!--<a href="mailto:mv.galupo@hotmail.com" target="_blank"><img src="gmail"></li>
+<a href="https://www.instagram.com/galupo01/" target="_blank"><img src=""></a>
+<a href="https://leetcode.com/marcosvgalupo/" target="_blank">Leet Code</a><-->
+
 
 
 
