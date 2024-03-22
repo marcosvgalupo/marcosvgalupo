@@ -1,34 +1,56 @@
-
 # Hello, welcome to my profile!
-<p>My name is Marcos Vyctor and I'm currently graduating in Computer Science at UNIFAL-MG, Brazil. I'm interessed in studying back-end development and undertand a little about front-end. My goal is to work with cybersecurity as a pentest.</p>
+## About me
 
-##
 
-<div class="skills">
-    <h4>Languages</h4>
-    <img src="https://skillicons.dev/icons?i=c,cpp,haskell,perl,java,bash">
-    <h4>Tools</h4>
-    <img src="https://skillicons.dev/icons?i=git,mysql,postman,">
-    <h4>IDE's and OS</h4>
-    <img src="https://skillicons.dev/icons?i=vscode,idea,linux">
-    <h4>Currently learning</h4>
-    <img src="https://skillicons.dev/icons?i=python,nodejs">
-</div>
-<br>
+- 🎓 Studying Computer Sciente in Universidade Federal de Alfenas.
+<!-- - 💼 Trabalhando como {stack em que você trabalhar} na {empresa}. -->
+- 🧠 Currrently learning Java and NodeJS.
+
+## Skills
+
+**Application and Data**
+
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
+![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-14354C?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Tools and DevOps**
+
+![Git](https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-E34F26?style=for-the-badge&logo=postman&logoColor=white)
+<!-- 
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+-->
+
+
+**IDE's and OS**
+
+![Visual Studio Code](https://img.shields.io/badge/-VS%20Code-333333?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
+![IntelliJ](https://img.shields.io/badge/-Intellij-333333?style=for-the-badge&logo=intellij-idea)
+![Windows](https://img.shields.io/badge/Windows-333333?style=for-the-badge&logo=windows&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-333333?style=for-the-badge&logo=linux&logoColor=white)
+
+
 
 
 ## Github Stats
 <div align="left">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosvgalupo&show_icons=true&theme=github_dark"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvgalupo&layout=compact&langs_count=16&theme=github_dark"/>
+    <!--
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosvgalupo&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"/>
+    -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvgalupo&hide=html,pug&layout=compact&langs_count=16&theme=github_dark"/>
 </div>  
 
 ## Contact
+![Linkedin](https://img.shields.io/badge/marcosvgalupo-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
+[![Gmail Badge](https://img.shields.io/badge/-Mail%20me-D14836?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:SEU-EMAIL)](mailto:mv.galupo@hotmail.com)
 
-<a href="https://www.linkedin.com/in/marcosvgalupo/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin"></a>
-<!--<a href="mailto:mv.galupo@hotmail.com" target="_blank"><img src="gmail"></li>
-<a href="https://www.instagram.com/galupo01/" target="_blank"><img src=""></a>
-<a href="https://leetcode.com/marcosvgalupo/" target="_blank">Leet Code</a><-->
+
 
 
 
