@@ -2,9 +2,9 @@
 ## About me
 
 
-- 🎓 Studying Computer Sciente in Universidade Federal de Alfenas.
+- 🎓 Studying Computer Science in Universidade Federal de Alfenas.
 <!-- - 💼 Trabalhando como {stack em que você trabalhar} na {empresa}. -->
-- 🧠 Currrently learning Java and NodeJS.
+- 🧠 Currently learning Java and NodeJS.
 
 ## Skills
 
