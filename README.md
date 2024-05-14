@@ -39,11 +39,11 @@
 
 ## Github Stats
 <div align="left">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosvgalupo&show_icons=true&theme=github_dark"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api?username=marcosvgalupo&show_icons=true&theme=github_dark"/>
     <!--
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosvgalupo&show_icons=true&title_color=783c00&text_color=af552e&icon_color=783c00&bg_color=f8efd4&cache_seconds=2300"/>
     -->
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvgalupo&hide=html,pug&layout=compact&langs_count=16&theme=github_dark"/>
+    <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcosvgalupo&hide=html,pug,lex,yacc,shell,batchfile,makefile&layout=compact&langs_count=16&theme=github_dark"/>
 </div>  
 
 ## Contact
