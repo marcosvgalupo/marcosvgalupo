@@ -4,7 +4,7 @@
 
 - 🎓 Studying Computer Science in Universidade Federal de Alfenas.
 <!-- - 💼 Trabalhando como {stack em que você trabalhar} na {empresa}. -->
-- 🧠 Currently learning Java and NodeJS.
+- 🧠 Currently improving my skills in Java and Spring Boot.
 
 ## Skills
 
